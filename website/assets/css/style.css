@@ -1,3 +1,27 @@
+
 body{
-    background: #BDBDBD;
+
+    background: #ffffff;
+
+}
+.card{
+    border: none
+}
+.banner-principal {
+  background-image: url('https://www.shutterstock.com/image-photo/sunset-porthole-window-on-airplane-600nw-2578435047.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 40vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  color: #000;
+}
+
+.franja-texto {
+  background-color: rgba(255, 255, 255, 0.8);
+  width: 100%;
+  padding: 20px 0;
 }
